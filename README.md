@@ -1,2 +1,2 @@
-# FurList-Developers
-Report bugs, problems, feature ideas here
+# FurList Developers
+Report FurList bugs, problems and feature ideas here
